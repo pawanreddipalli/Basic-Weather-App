@@ -1,10 +1,10 @@
-Markdown
-## Weather App
+# Basic Weather App
 
-This is a weather application that lets you search for the weather conditions in any city around the world. It utilizes the OpenWeatherMap API to retrieve real-time weather data and 6-day forecasts.
+This weather application allows you to search for weather conditions in any city around the world. It utilizes the OpenWeatherMap API to retrieve real-time weather data and 6-day forecasts. I created this website so that people learning how to deploy a website can freely use it and have a fun, interactive experience. Enjoy learning!
 
-You can look at the website using this link [https://pawanreddipalli.github.io/Basic-Weather-App/](https://pawanreddipalli.github.io/Basic-Weather-App/)
-*Note*: Current running website is v2 and not the main branch
+You can view the website using this link: [Basic Weather App](https://pawanreddipalli.github.io/Basic-Weather-App/)
+
+*Note*: The currently running version of the website is v2, not the main branch.
 
 ### Features
 
@@ -16,10 +16,9 @@ You can look at the website using this link [https://pawanreddipalli.github.io/B
 ### Installation
 
 **1. Clone the repository:**
-
-    ```bash
+    
     git clone [https://github.com/pawanreddipalli/Basic-Weather-App](https://github.com/pawanreddipalli/Basic-Weather-App)
-    ```
+    
 **2. Replace the API key:**
 
 Crucially, you must obtain your own OpenWeatherMap API key to use this application. Sign up for a free API key at https://openweathermap.org/api.
